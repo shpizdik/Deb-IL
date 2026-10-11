@@ -1,5 +1,5 @@
-#ifndef DEBIL
-#define DEBIL
+#ifndef DEBIL_H
+#define DEBIL_H
 
 
 
